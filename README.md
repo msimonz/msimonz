@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a software developer currently studying **Systems Engineering at Pontificia Universidad Javeriana**, passionate about creating technological solutions that transform realities. I specialize in backend development, cloud service integration, and the design of user-centered digital experiences.
 
-Currently, I work at **Orko Systems** as a Designer & Developer, where I contribute to the development of robust and efficient platforms with clean and functional design.
+Currently, I work at **Orko Systems** as a Designer & Developer, where I contribute to the development of robust and efficient platforms with clean and functional design. And I'm training as an **OCI Integration Trainee** at **Cetus Technology**, expanding my skills in Oracle Cloud Infrastructure.  
 
 ---
 
@@ -10,7 +10,6 @@ Currently, I work at **Orko Systems** as a Designer & Developer, where I contrib
 
 - 📍 Based in Bogotá, Colombia  
 - 💻 Interested in **software architecture**, **cloud computing**, **backend development**, and **user experience design**  
-- ☁️ Currently training as an **OCI Integration Trainee** at **Cetus Technology**, expanding my skills in Oracle Cloud Infrastructure  
 - 🧩 Constant learner and team player, committed to building scalable and sustainable solutions  
 
 ---
@@ -43,7 +42,7 @@ Currently, I work at **Orko Systems** as a Designer & Developer, where I contrib
 
 ## 🎓 Education
 
-- **B.Sc. Systems Engineering** – *Pontificia Universidad Javeriana* (2020 – Present)  
+- **B.Sc. Systems Engineering** – *Pontificia Universidad Javeriana* (2022 – Present)  
 - **Bachelor in Theology** – *Jesus Is Lord International University* (2021 – 2023)  
 - **International Baccalaureate** – *Colegio San Viator*  
 
